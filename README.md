@@ -1,4 +1,4 @@
-# Laurence Walshe // Software Engineer
+# Laurence Walshe // Developing Software Developer
 
 ```
 Goodbye Coffee, Hello World! 
