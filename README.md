@@ -6,6 +6,7 @@ Goodbye Coffee, Hello World!
 # 
 
 <img src="https://img.shields.io/badge/General%20Assembly-Software%20Engineering%20Immersive-%23F6201D"/>
+<img src="https://img.shields.io/badge/OSSU-Computer--Science-%232381C2"/>
 
 #### General Assembly Student on their Sortware Engineer Immersive program.
 
