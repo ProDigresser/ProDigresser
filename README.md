@@ -1,14 +1,12 @@
 # Hi, I'm Laurence Walshe 👋
 
-I'm a software engineer with five years of experience across startup and enterprise businesses, focused on product engineering and development.
+Software engineer with five years of experience building production backend services, APIs, web and mobile clients, and cloud-to-site infrastructure. I specialise in distributed integrations, identity and authentication, access-control systems, secure networking, and workflow automation.
 
-## Skills
+## Current focus
 
-- TypeScript
-- React
-- React Native
-- Go
-- Django
-- PostgreSQL
-- MySQL
-- IoT
+- Go services and third-party API integrations
+- Cloud-to-site connectivity with WireGuard and on-premises systems
+- Identity: Microsoft Entra ID, SSO, MFA, TOTP, session and cookie security
+- React Native, BLE, digital passes, and connected access-control devices
+- TypeScript, React, Python/Django, SQL, GraphQL, and gRPC
+- Containerised delivery: Docker, GitLab CI, Kubernetes, and Helm
