@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laurence%20Walshe-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurencewalshe)
 [![Email](https://img.shields.io/badge/Email-hello%40laurencewalshe.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@laurencewalshe.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-ProDigresser-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ProDigresser)
 [![Instagram](https://img.shields.io/badge/Instagram-@ProDigresser-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ProDigresser/)
 [![Ceramics](https://img.shields.io/badge/Ceramics-@ceramic.panic-C67C4E?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ceramic.panic/)
 [![Cooking](https://img.shields.io/badge/Cooking-@culinary.necromancy-5C4033?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/culinary.necromancy/)
